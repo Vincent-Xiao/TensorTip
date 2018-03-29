@@ -1,5 +1,5 @@
 ## TensorTip
-A TensorFlow scripts and templates for Training CNN and BNN  
+TensorFlow scripts and templates for Training CNN and BNN  
 This implementation is based on https://github.com/eladhoffer/convNet.tf and https://github.com/itayhubara/BinaryNet.tf.git
 
 ## Update
