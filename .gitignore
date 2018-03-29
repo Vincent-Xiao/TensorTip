@@ -1,0 +1,6 @@
+Datasets/
+*.pyc
+results/
+.tag*
+ImgeNetProcess/build_imagenet.log
+*.csv
